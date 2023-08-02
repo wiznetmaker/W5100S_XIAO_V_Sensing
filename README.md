@@ -95,3 +95,9 @@ In a very, very small form!
 
 End
 There are many scopes, but there will be no such small and efficient scope! Make it very, very simple! It's so comfortable!
+
+Additionally, there is a Raspberry Pico version. Only the pin map is a little different, and it looks better with PoE.
+
+In addition, current detection has been added.
+
+https://maker.wiznet.io/Alan/projects/the-worlds-smallest-oscilloscope/
